@@ -1,4 +1,4 @@
-# crypswolfy69 nodes
+# crypswolf69
 
 One ComfyUI pack with three tools:
 
@@ -18,14 +18,14 @@ Sources bundled from:
 
 **ComfyUI-Manager / Registry**
 
-Search `crypswolfy69 nodes` and install.
+Search `crypswolf69` and install.
 
 **Manual**
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/babydjac/crypswolfy69-nodes.git
-pip install -r crypswolfy69-nodes/requirements.txt
+git clone https://github.com/babydjac/crypswolf69.git
+pip install -r crypswolf69/requirements.txt
 ```
 
 Restart ComfyUI and hard-refresh the browser.
