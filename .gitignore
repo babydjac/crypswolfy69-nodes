@@ -16,3 +16,5 @@ venv/
 dist/
 build/
 node_modules/
+
+node.zip
