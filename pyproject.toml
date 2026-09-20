@@ -1,0 +1,23 @@
+[project]
+name = "crypswolfy69-nodes"
+version = "1.0.0"
+description = "crypswolfy69 nodes — Alchemist (any-LLM prompts/captions), Prompt Rotate, and a Hugging Face model browser/downloader for ComfyUI."
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = [
+    "aiohttp>=3.9,<4.0",
+]
+classifiers = [
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Repository = "https://github.com/babydjac/crypswolfy69-nodes"
+Documentation = "https://github.com/babydjac/crypswolfy69-nodes#readme"
+"Bug Tracker" = "https://github.com/babydjac/crypswolfy69-nodes/issues"
+
+[tool.comfy]
+PublisherId = "crypswolfy69"
+DisplayName = "crypswolfy69 nodes"
+Icon = ""
+requires-comfyui = ">=1.0.0"
